@@ -38,6 +38,7 @@ Desenvolver uma calculadora em iOS. Apresentação em aula do desafio proposto.
  - Luiz Eduh
  - Marcela Saidel
  - Mízia Lima
+ - Thiago Messa
  
  ### Preview: <br>
  <img alt="calculator_preview" width="600" src="https://github.com/joorgeroberto/IosCalculator/blob/master/calculator_preview.png">
